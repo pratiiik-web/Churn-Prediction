@@ -45,3 +45,8 @@ Churn Prediction/
 ## Demo
 ![App Screenshot](<img width="2880" height="1704" alt="Screenshot 2026-06-05 235204" src="https://github.com/user-attachments/assets/86d4bdbf-8709-49d3-bceb-3f200ca18496" />
 )    
+
+## Live Demo
+https://churn-prediction-mzk8zkvvb4ncrp7rw3g92z.streamlit.app/
+
+
