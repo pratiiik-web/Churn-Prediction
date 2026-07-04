@@ -47,6 +47,6 @@ Churn Prediction/
 )    
 
 ## Live Demo
-https://churn-prediction-mzk8zkvvb4ncrp7rw3g92z.streamlit.app/
+🔗 [Open Dashboard](https://churn-prediction-mzk8zkvvb4ncrp7rw3g92z.streamlit.app/)
 
 
